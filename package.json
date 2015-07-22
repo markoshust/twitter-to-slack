@@ -1,0 +1,16 @@
+{
+  "name": "twitter-to-slack",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "dependencies": {
+    "node-slack": "0.0.7",
+    "twit": "^2.1.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Si Griffiths <github@sigriffiths.com>",
+  "license": "MIT"
+}
